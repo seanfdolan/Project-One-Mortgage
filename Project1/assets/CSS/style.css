@@ -1,0 +1,54 @@
+/* Custom Styles */
+.container {
+    max-width: 800px;
+}
+
+/* Card Styling */
+.card {
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border: 1px solid #dee2e6;
+    background-color: #ffffff;
+}
+
+/* Results Page Styling */
+#Results {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+#resultDetails {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#Customized {
+    font-size: 1.8rem;
+    color: #28a745;
+}
+
+#monthlyPayment, #totalPrincipal, #totalInterest, #totalAmount {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #17a2b8;
+}
+
+/* Responsive Design */
+@media (max-width: 576px) {
+    .card {
+        padding: 15px;
+    }
+
+    #Customized {
+        font-size: 1.4rem;
+    }
+
+    #monthlyPayment, #totalPrincipal, #totalInterest, #totalAmount {
+        font-size: 1.2rem;
+    }
+}
