@@ -52,7 +52,7 @@ This project intended to continue development by building out features including
 
 ## Author
 
-- Sean Dolan - seanfdolan@github.io or sean.f.dolan@gmail
+- Sean Dolan - seanfdolan@github.io or sean.f.dolan@gmail.com
 - Arjun Goel - arjungoel@github.io or arjungoel6@gmail.com
 - Kamal Uddin - kamal21087@github.io or mkuddin87@gmail.com
 
